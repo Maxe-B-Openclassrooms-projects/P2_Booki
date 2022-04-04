@@ -2,6 +2,7 @@ body {
   font-family: "Raleway-ExtraBold", "Raleway", sans-serif;
   margin: 0px;
   box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 .hosting_link,
